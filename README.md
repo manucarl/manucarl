@@ -1,5 +1,3 @@
-### Hi, I am Manuel.
-
 ---
 I am a Data Scientist specializing in advanced regression models, machine learning and big data technologies (on Azure). Professional experience with the technologies listed below.
 
